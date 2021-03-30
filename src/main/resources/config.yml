@@ -1,0 +1,10 @@
+# Same name as defined in your bungee config.yml
+serverName: sw1
+socketPort: 25564
+
+signs:
+  - server: sw1
+    name: example
+    x: 0
+    y: 0
+    z: 0

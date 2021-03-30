@@ -1,0 +1,9 @@
+name: SkywarsLobbyColosas
+version: 0.1
+author: KikoPT
+api-version: 1.16
+main: com.colosas.skywarslobby.SkywarsLobby
+
+commands:
+  addsign: {}
+  swrl: {}
